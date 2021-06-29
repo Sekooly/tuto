@@ -1,8 +1,7 @@
 # Site settings
 title: Sekooly | Tutoriels # site title
 description: >- # site description
-  Retrouvez ici les tutoriels d'utilisation de la plateforme Sekooly.
-  Tout contribution est bienvenue.
+  Retrouvez ici les tutoriels d'utilisation de la plateforme Sekooly, format écrit et vidéo.
 lang: fr-FR # default lang
 timezone: Europe/Paris # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
