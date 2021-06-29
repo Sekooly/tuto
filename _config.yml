@@ -1,5 +1,5 @@
 # Site settings
-title: Tuto Sekooly # site title
+title: Sekooly | Tutoriels # site title
 description: >- # site description
   Retrouvez ici les tutoriels d'utilisation de la plateforme Sekooly.
   Tout contribution est bienvenue.
@@ -47,7 +47,7 @@ defaults:
       path: ""
     values:
       layout: post
-      comments: true
+      comments: false
       social-share: true # add social media sharing buttons to all blog posts
 
 # Jekyll Compose default front matter
