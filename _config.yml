@@ -1,33 +1,33 @@
 # Site settings
-title: Data Addict # site title
+title: Tuto Sekooly # site title
 description: >- # site description
-  Let's talk about Datas, Programming and Freelancer life.
-  This website is hold by Jady Nekena R.
-lang: en-US # default lang
+  Retrouvez ici les tutoriels d'utilisation de la plateforme Sekooly.
+  Tout contribution est bienvenue.
+lang: fr-FR # default lang
 timezone: Europe/Paris # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo:  # site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Data Addict # author name
+  name: Sekooly # author name
   bio: >- # tell to the world
-      Let's talk about Datas, Programming and Freelancer life.
-      This website is hold by Jady Nekena R.
-  username: jadynekena # general username
-  github: jadynekena # github username
-  twitter: jadynekena # twitter username
+      Nous travaillons avec les écoles pour numériser l'éducation🙂
+
+  username: Sekooly # general username
+  github: Sekooly # github username
+  twitter: sekooly # twitter username
   facebook: # facebook username
-  email: contact@data-addict.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
-  linkedin: data-analyst-vba
+  email: contact@sekooly.com # email adress
+  avatar: /assets/img/avatar.png # change with your own avatar
+  linkedin: 
 
 # URL settings
-url: "https://data-addict.com"
+url: "https://tuto.sekooly.com"
 baseurl: 
 permalink: /:title/
-google_analytics: G-1QPQQ0J86T # leave it blank if not wish
+google_analytics: G-KDJEN3VVT1 # leave it blank if not wish
 fb_appid:
 
 # Collection setting

@@ -1,16 +1,25 @@
 ---
-title: Who is behind Data Addict
+title: Qu'est-ce que Sekooly ? (FAQ)
 permalink: /about/
 layout: page
-excerpt: Hello everyone, I'm an engineer based and living in France, I'm originally from Madagascar. This blog is basically to talk about topics I love, like programming, entrepreneur life, and freelancing stuff. 
+excerpt: Sekooly est une plateforme de télé-enseignement hébergée, qui ambitionne de concrétiser et faciliter le télé-enseignement.
 comments: true
 ---
 
-# To sum up
-Hello everyone, I'm an engineer based and living in France, I'm originally from Madagascar. This blog is basically to talk about topics I love, like programming, entrepreneur life, and freelancing stuff. 
+# En une phrase ?
+Sekooly est une plateforme de télé-enseignement hébergée, qui ambitionne de concrétiser et faciliter le télé-enseignement.
 
-# More details
-Ok so if you wonder who is running this blog, I will tell you more about me in few days. At this moment, I don't know yet what to write here.
+# Pour qui ?
+Nous nous adressons aux établissements scolaires. Nous pouvons également fournir une solution plus personnalisée pour les établissements de formation.
 
-**Let's talk ✨**: [{{ site.author.email }}](mailto:{{ site.author.email }})
+# Pour combien ?
+Les prix varient entre 0.50 euros à 5 euros par utilisateur. Tout dépend de la taille de votre projet pédagogique, des foncitonnalités optionnelles que vous choisissez, et du nombre d'utilisateurs que vous souhaitez inscrire pour votre établissement.
+
+# Nombre d'utilisateurs max ?
+Vous pouvez choisir Sekooly pour inscrire jusqu'à 1000 utilisateurs pour votre établissement.
+
+# Plus de détails
+Si vous souhaitez plus d'informations, vous pouvez consulter notre blog d'actualités, où nous avons dédié [un article](https://news.sekooly.com/a-propos-de-sekooly/) sur nos activités, notre vision, et nos prochains objectifs.
+
+**Prenons contact:** [{{ site.author.email }}](mailto:{{ site.author.email }})
 

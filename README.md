@@ -1,26 +1,27 @@
-# Welcome to Data Addict repo
-Hey, thanks for visiting this repo!  
-This website is live on [data-addict.com](https://data-addict.com).  
+# Les tutos Sekooly
+## Où trouver le tutoriel
+Le site tourne sur [tuto.sekooly.com](https://tuto.sekooly.com).  
 
-It's basically my website content, that you definitely can clone/[fork](https://github.com/jadynekena/jadynekena.github.io/fork)/[use as a template](https://github.com/jadynekena/jadynekena.github.io/generate) to make it your own blogging CMS.
+## Pourquoi rendre ce repo publique ? 
+Pour que tous les utilisateurs qui utilisent Sekooly puissent contribuer.
 
-# How to use this repo
-Here are some tips to get started :  
-- `_config.yml` : for the main configuration of your website. You can see the [beautiful-jekyll config](https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml) to understand how to fill it with your own datas.
-- `_posts` : where your articles will be stored, with a specific filename to make the datetimes work.  
-- `assets` : for images, css style, and favicons.  
-- `_sass/main.scss` : for generic parameters such as colors, font-family, size of few elements, etc.  
-- `_includes` : for the templates that will be used to render your website : navbar, posts contents, and even comments section.  
+# Comprendre les fichiers
+Voici les fichiers importants:
+- `_config.yml` : configuration générale du site. Vous pouvez consulter [beautiful-jekyll config](https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml) pour comprendre tous les éléments à compléter.
+- `_posts` : où les articles sont postés.  
+- `assets` : stockage les images, les styles CSS, et les favicons.  
+- `_sass/main.scss` : paramètres génériques tels que les couleurs, les polices, la tailles de quelques éléments, etc.  
+- `_includes` : les éléments html  utilisés pour faire le rendu du site : barre de navigation, contenus des articles, et la section commentaire.  
 
-# Run it locally
+# Tester en local
 ```
 bundle install
 bundle exec jekyll serve --incremental --trace
 ```
-Then go to: **http://127.0.0.1:4000**
+Puis aller à l'adresse: **http://127.0.0.1:4000**
 
 # Credits
-I'm a data engineer and I actually don't build websites. All the front end elements here are from [jekyll-klise](https://github.com/piharpi/jekyll-klise).
+Ce site a été conçu grâce à l'utilisation du template [jekyll-klise](https://github.com/piharpi/jekyll-klise) et des modifications apportées par [data-addict.com](https://github.com/data-addict-com/website).
 
-# Maintainer
-This repo is owned by [@Jady Nekena](https://github.com/jadynekena)
+# Contenu et maintenance
+Tout le contenu appartient exclusivement à [@Sekooly](https://sekooly.com).
