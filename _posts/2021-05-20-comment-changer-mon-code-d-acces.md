@@ -2,7 +2,7 @@
 layout: post
 title:  "Comment changer mon code d'accès?"
 date:   2021-05-20 10:30:14
-categories: "Changer son code d'accès"
+categories: ["Changer de code d'accès"]
 published: true
 ---
 
