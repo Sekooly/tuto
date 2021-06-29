@@ -5,6 +5,7 @@
   <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
 </footer>
 <script src="/assets/js/main.js" defer="defer"></script>
+<script src="/assets/js/navbar-refresh.js" defer="defer"></script>
 
 {%- if page.google_analytics -%}
   <script src="/assets/js/galite.js"></script>
@@ -21,5 +22,8 @@
       resultsContainer: document.getElementById('search-results'),
       json: '/assets/search.json',
     });
+  </script>
+
+    
   </script>
 {%- endif -%}

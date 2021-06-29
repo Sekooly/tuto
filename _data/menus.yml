@@ -1,23 +1,33 @@
 - title: Accueil
   url: /
   external: false
+  hide-if-embedded: true
+  default-on-embed: false
 
-- title: Categories
+- title: Catégories
   url: /categories/
   external: false
+  hide-if-embedded: false
+  default-on-embed: true
 
-- title: Archive
-  url: /archive/
+- title: Recherche
+  url: /recherche/
   external: false
+  hide-if-embedded: false
+  default-on-embed: false
 
 - title: A propos
   url: /a-propos/
   external: false # set true if you using external link, see below
+  hide-if-embedded: true
+  default-on-embed: false
 
 
 - title: Vidéos
   url: /videos/
   external: false
+  hide-if-embedded: true
+  default-on-embed: false
 
 # Example:
 # - title: github

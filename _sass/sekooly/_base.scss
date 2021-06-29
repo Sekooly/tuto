@@ -371,3 +371,20 @@ mark,
 .share-page {
   border-top: 0.5px solid #a4a4a4;
 }
+
+
+iframe {
+  width: 90vw;
+  height: 90vh;
+}
+
+.header-video {
+  text-align: center;
+}
+
+.iframe-wrapper {
+  max-width: 90vw;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+}

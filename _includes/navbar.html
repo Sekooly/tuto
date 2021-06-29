@@ -163,27 +163,29 @@
       <div class="trigger-container">
         {%- assign url = page.url -%}
         {%- assign menus = site.data.menus -%}
-		{%- for menu in menus -%} 
-		{%- if url == menu.url -%}
-		  <a class="menu-link active" href="{{ menu.url }}">{{ menu.title }}</a>
-		{%- else -%} 
-		  {%- if menu.external -%}
-		    <a
-		      class="menu-link"
-		      href="{{ menu.url }}"
-		      target="_blank"
-		      rel="noopener"
-		      >{{ menu.title }}</a
-		    >
-		  {%- else -%}
-		    <a class="menu-link" href="{{ menu.url }}">{{ menu.title }}</a>
-		  {%- endif -%} 
-		{%- endif -%} 
-		{%- endfor -%}
+    		{%- for menu in menus -%} 
+
+        		{%- if url == menu.url -%}
+        		  <a class="menu-link active" hide-if-embedded="{{ menu.hide-if-embedded }}" default-on-embed="{{ menu.default-on-embed }}" href="{{ menu.url }}">{{ menu.title }}</a>
+        		{%- else -%} 
+        		  {%- if menu.external -%}
+        		    <a
+        		      class="menu-link"
+        		      href="{{ menu.url }}"
+        		      target="_blank"
+        		      rel="noopener"
+        		      >{{ menu.title }}</a
+        		    >
+        		  {%- else -%}
+        		    <a class="menu-link" hide-if-embedded="{{ menu.hide-if-embedded }}" default-on-embed="{{ menu.default-on-embed }}" href="{{ menu.url }}">{{ menu.title }}</a>
+        		  {%- endif -%} 
+            {%- endif -%} 
+
+    		{%- endfor -%}
 
 
 		
-        <a class="menu-link rss" href="/feed.xml">
+        <a class="menu-link rss" target="_blank" href="/feed.xml">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="17"
@@ -206,4 +208,8 @@
       </div>
     </div>
   </nav>
+
+
+
 </div>
+
