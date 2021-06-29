@@ -8,6 +8,7 @@ Pour que tous les utilisateurs qui utilisent Sekooly puissent contribuer.
 # Comprendre les fichiers
 Voici les fichiers importants:
 - `_config.yml` : configuration générale du site. Vous pouvez consulter [beautiful-jekyll config](https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml) pour comprendre tous les éléments à compléter.
+- `_data/menus.yml` : configuration des menus dans la barre de navigation du haut.
 - `_posts` : où les articles sont postés.  
 - `assets` : stockage les images, les styles CSS, et les favicons.  
 - `_sass/main.scss` : paramètres génériques tels que les couleurs, les polices, la tailles de quelques éléments, etc.  

@@ -49,17 +49,20 @@ layout: compress
           {% if page.date %}
           <div class="post-meta">
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-              {{ page.date | date: "%b %d, %Y" }}
+              Dernière mise à jour le : {{ page.date | date: "%d/%m/%Y %H:%M" }}
             </time>
+            <br>
             <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-              <span itemprop="name">{{ site.author.name }}</span>
+              Ecrit par : <span itemprop="name">{{ site.author.name }}</span>
 
               
 
             </span>
+
             <div>
-            {% include read_time.html %}            
+              Temps de lecture : environ {% include read_time.html %}            
             <div>
+
             <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified">
               {{ page.date | date: "%b %d, %Y" }}
             </time>

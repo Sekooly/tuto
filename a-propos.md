@@ -1,6 +1,6 @@
 ---
 title: Qu'est-ce que Sekooly ? (FAQ)
-permalink: /about/
+permalink: /a-propos/
 layout: page
 excerpt: Sekooly est une plateforme de télé-enseignement hébergée, qui ambitionne de concrétiser et faciliter le télé-enseignement.
 comments: true
