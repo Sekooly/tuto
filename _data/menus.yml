@@ -4,12 +4,6 @@
   hide-if-embedded: false
   default-on-embed: true
 
-#- title: Catégories
-#  url: /categories/
-#  external: false
-#  hide-if-embedded: false
-#  default-on-embed: true
-
 - title: Recherche
   url: /recherche/
   external: false
