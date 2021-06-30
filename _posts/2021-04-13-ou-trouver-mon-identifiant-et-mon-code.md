@@ -2,6 +2,7 @@
 layout: post
 title:  "Où trouver mon identifiant et mon code d'accès?"
 date:   2021-04-13 08:31:14
+categories: ["Se connecter"]
 published: true
 ---
 

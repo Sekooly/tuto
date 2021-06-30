@@ -2,6 +2,7 @@
 layout: post
 title:  "Réinitialisation du code d'accès"
 date:   2021-05-22 09:12:11
+categories: ["Changer de code d'accès"]
 published: true
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Connecté en tant qu'Administrateur"
 date:   2021-05-23 09:26:15
+categories: ["Une fois connecté"]
 published: true
 ---
 

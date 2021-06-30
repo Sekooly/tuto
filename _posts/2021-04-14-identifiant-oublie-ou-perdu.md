@@ -2,6 +2,7 @@
 layout: post
 title:  Identifiant oublié ou perdu
 date:   2021-04-14 08:17:01
+categories: ["Se connecter"]
 published: true
 ---
 
