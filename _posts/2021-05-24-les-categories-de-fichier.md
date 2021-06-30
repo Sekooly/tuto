@@ -6,6 +6,7 @@ categories: ["Zone de fichiers en ligne"]
 published: true
 ---
 
+## Liste des catégories possibles
 Les fichiers que vous visualisez sont classés en 7 catégories :
 - Cours
 - Devoirs

@@ -115,26 +115,30 @@ layout: compress
       return anchor;
     }
 
-    function linkifyAnchors(level, containingElement) {
+    function linkifyAnchors(titles, level, containingElement) {
       var headers = containingElement.getElementsByTagName("h" + level);
-      var titles = document.getElementById("titles");
+
       for (var h = 0; h < headers.length; h++) {
         var header = headers[h];
-        if (typeof header.id !== "undefined" && header.id !== "") {
+        nb_href=document.querySelectorAll('.header-link[href="#'+header.id+'"]').length;
+        if (typeof header.id !== "undefined" && header.id !== "" && nb_href===0) {
           titles.appendChild(anchorForId(header.id,header.innerText));
         }
       }
     }
 
     document.onreadystatechange = function () {
+      var titles = document.getElementById("titles");
       if (this.readyState === "complete") {
         var contentBlock = document.getElementsByClassName("page-content")[0];
         if (!contentBlock) {
           return;
         }
         for (var level = 1; level <= 6; level++) {
-          linkifyAnchors(level, contentBlock);
+          linkifyAnchors(titles, level, contentBlock);
         }
+
+        if(titles.innerHTML.trim() === "<strong>PLAN DE L'ARTICLE</strong>") titles.style.display = "none";
       }
     };
     </script>
