@@ -6,7 +6,7 @@ categories: ["Zone de fichiers en ligne"]
 published: true
 ---
 
-# Cet article concerne uniquement les Administrateurs et Enseignants.  
+> Cet article concerne uniquement les Administrateurs et Enseignants.  
 
 Si vous êtes propriétaire du fichier à modifier, ou un Administrateur avec les pleins droits, vous pouvez faire un clic droit (clic long sur téléphone/tablette) sur le fichier, et choisir ce que vous désirez faire.  
 ![modifs-fichier](/assets/img/modifs-fichier.PNG)
@@ -60,7 +60,7 @@ Une fenêtre de changement de coefficient apparaît:
 A vous de définir le coefficient du fichier, sachant que coefficient = 1 signifie une note attribuée sur 20.
 
 ## Rendre téléchargeable ou non
-<strong class="rouge">Uniquement pour les fichiers en ligne HORS MANUELS/QUIZ</strong>  
+<strong class="rouge">Uniquement pour les fichiers en ligne HORS QUIZ et MANUELS</strong>  
 Si vous désirez rendre un fichier téléchargeable (ou non), vous pouvez le faire en saisissant directement **oui** ou **non**:  
 ![changer-telechargeable](/assets/img/changer-telechargeable.PNG)
 

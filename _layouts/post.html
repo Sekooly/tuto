@@ -71,7 +71,14 @@ layout: compress
             <span hidden itemprop="mainEntityOfPage">{{ page.excerpt }}</span>
           </div>
           {% endif %}
+
         </header>
+
+        <hr>
+        <div id="titles">
+          <strong>PLAN DE L'ARTICLE</strong>
+        </div>
+        <hr>
 
         <div class="page-content" itemprop="articleBody">
           {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
@@ -98,6 +105,39 @@ layout: compress
     {% endif %}
 
     {% include footer.html %}
+
+    <script type="text/javascript">
+    function anchorForId(id,the_title) {
+      var anchor = document.createElement("a");
+      anchor.className = "header-link";
+      anchor.href = "#" + id;
+      anchor.innerText = the_title;
+      return anchor;
+    }
+
+    function linkifyAnchors(level, containingElement) {
+      var headers = containingElement.getElementsByTagName("h" + level);
+      var titles = document.getElementById("titles");
+      for (var h = 0; h < headers.length; h++) {
+        var header = headers[h];
+        if (typeof header.id !== "undefined" && header.id !== "") {
+          titles.appendChild(anchorForId(header.id,header.innerText));
+        }
+      }
+    }
+
+    document.onreadystatechange = function () {
+      if (this.readyState === "complete") {
+        var contentBlock = document.getElementsByClassName("page-content")[0];
+        if (!contentBlock) {
+          return;
+        }
+        for (var level = 1; level <= 6; level++) {
+          linkifyAnchors(level, contentBlock);
+        }
+      }
+    };
+    </script>
   </div>
 </body>
 
