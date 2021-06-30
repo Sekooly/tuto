@@ -18,7 +18,8 @@ Retrouvez la configuration de cet affichage par défaut en bas de votre écran:
 
 
 ## Méthode 1: filtre par date d'effet
-En fonction des [dates d’effet](#) choisies par l’auteur des fichiers, vous pouvez filtrer l’affichage avec la liste déroulante en bas de votre écran.
+En fonction des [dates d’effet](/utiliser-le-filtre-journalier#notion-de-date-deffet) choisies par l’auteur des fichiers, vous pouvez filtrer l’affichage avec la liste déroulante en bas de votre écran.  
+Pour plus d'informations sur le filtre journalier, vous pouvez consulter [l'article dédié](/utiliser-le-filtre-journalier).
 
 ![filtre-par-date](/assets/img/filtre-par-date.PNG)
 

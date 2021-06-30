@@ -24,7 +24,7 @@ Un quiz permet au corps pédagogique d'évaluer l'apprentissage des apprenants. 
 
 ## Cas des Corrections
 Des fichiers de corrections peuvent être en ligne même si le devoir correspondant n’est pas encore dû.
-Pour les élèves, ces fichiers ne seront consultables avant leur [date d’effet](#).
+Pour les élèves, ces fichiers ne seront consultables avant leur [date d’effet](/utiliser-le-filtre-journalier#notion-de-date-deffet).
 
 ## Cas des Manuels
 Les manuels scolaires sont généralement de gros fichiers pdf qui ne **peuvent pas** être téléchargés par les membres de la plateforme. Seuls les membres de l'Administration peuvent en faire la mise en ligne.
