@@ -26,3 +26,9 @@ En fonction des [dates d’effet](#) choisies par l’auteur des fichiers, vous 
 En fonction des [chapitres](#) assignés aux fichiers en ligne, vous pouvez filtrer l’affichage avec la liste déroulante en bas de votre écran.
 
 ![filtre-par-chapitre](/assets/img/filtre-par-chapitre.PNG)
+
+
+------
+Dans tous les cas, vous pouvez retrouver l'ensemble des fichiers publiés dans la matière en cliquant sur **Tous les fichiers**.
+
+  
