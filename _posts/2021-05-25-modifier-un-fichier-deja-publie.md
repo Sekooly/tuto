@@ -32,7 +32,13 @@ Pour mieux comprendre le concept de chapitres, vous pouvez consulter [cet articl
 
 ## Recatégoriser
 Une fenêtre de recatégorisation apparaît:
-Vous pouvez choisir parmi les catégories suivantes, puis cliquer sur **Recatégoriser**. <strong class="rouge">Attention, la catégorie Bulletins est spécifique aux Administrateurs, et risque de faire disparaître votre fichier si vous l’utilisez en tant qu'enseignant.</strong>  
+![recategorisation](/assets/img/recategoriser.PNG)
+
+Vous pouvez choisir parmi les catégories suivantes, puis cliquer sur **Recatégoriser**.  
+
+> Attention, la catégorie Bulletins est spécifique aux Administrateurs, et risque de faire disparaître votre fichier si vous l’utilisez en tant qu'enseignant.
+
+----------
 <strong class="rouge">Note importante</strong>: les devoirs et les examens ne sont pas recatégorisables, car des élèves ont peut-être déjà envoyé des rendus liés à votre fichier sur la plateforme. Si vous souhaitez quand même recatégoriser votre Devoir/Examen, vous devez:
 - [Télécharger le fichier](/telecharger-un-fichier) sur votre ordinateur/téléphone/tablette (si faisable)
 - [Supprimer](#supprimer-définitivement) le fichier à recatégoriser (engendre la suppression de tous les rendus liés)
@@ -41,9 +47,25 @@ Vous pouvez choisir parmi les catégories suivantes, puis cliquer sur **Recatég
 
 
 ## Changer la date d'effet
+Une fenêtre de changement de date d'effet apparaît:
+![changer-date-effet](/assets/img/changer-date-effet.PNG)  
+
+Une fois la bonne date choisie, cliquez sur **Appliquer date d'effet** : la page s'actualisera automatiquement et votre fichier a été actualisé.
 
 ## Assigner un coefficient
+<strong class="rouge">Uniquement pour les devoirs/examens/quiz</strong>  
+Une fenêtre de changement de coefficient apparaît:
+![changer-coeff](/assets/img/coefficient.PNG) 
+
+A vous de définir le coefficient du fichier, sachant que coefficient = 1 signifie une note attribuée sur 20.
 
 ## Rendre téléchargeable ou non
+<strong class="rouge">Uniquement pour les fichiers en ligne HORS MANUELS/QUIZ</strong>  
+Si vous désirez rendre un fichier téléchargeable (ou non), vous pouvez le faire en saisissant directement **oui** ou **non**:  
+![changer-telechargeable](/assets/img/changer-telechargeable.PNG)
 
 ## Supprimer définitivement
+Une alerte de confirmation s'affiche:  
+![validation-suppression](/assets/img/validation-suppression.PNG)  
+
+Vous pouvez valider en cliquant sur **OK**, ou tout simplement **Annuler** si vous avez changé d'avis. <strong class="rouge">Attention: une fois que vous avez validé la suppression d'un fichier, il est impossible de le récupérer.</strong>  
