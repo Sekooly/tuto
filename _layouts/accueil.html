@@ -3,8 +3,9 @@ layout: default
 home: true
 ---
 
-<h3 class="posts-item-note" aria-label="Recent Posts">Postes récents</h3>
-{%- for post in site.posts limit: site.number_of_posts -%}
+<h3 class="posts-item-note" aria-label="Recent Posts">Retrouvez ci-dessous les articles, lisible <strong>en moins d'une minute</strong> chacun.</h3>
+{% assign sortedPosts = site.posts | sort: 'date' %}
+{%- for post in sortedPosts limit: site.number_of_posts -%}
 <article class="post-item">
   <span class="post-item-date">{{ post.date | date: "%b %Y" }}</span>
   <h4 class="post-item-title">

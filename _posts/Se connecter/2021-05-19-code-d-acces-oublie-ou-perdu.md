@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Code d'accès oublié ou perdu"
-date:   2021-05-20 10:30:14
-categories: ["Se connecter"]
+date:   2021-05-19 10:30:14
 published: true
 ---
 
