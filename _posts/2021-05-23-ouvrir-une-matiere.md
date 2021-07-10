@@ -6,4 +6,7 @@ categories: ["Une fois connecté"]
 published: true
 ---
 
-Lorsque vous ouvrez une matière, vous avez 3 zones importantes: la [zone des fichiers en ligne](/#Zone de fichiers en ligne), la barre de [navigation du haut](/navigation-en-haut), et les [bulles de droite](/bulles-de-droite).
+Lorsque vous ouvrez une matière, vous avez 3 zones importantes:
+- la [zone des fichiers en ligne](/#Zone de fichiers en ligne)
+- la barre de navigation du haut avec le [menu en haut à gauche](/#Menu en haut à gauche) et les [autres boutons](/#Boutons de navigation)
+- les [bulles de droite](/#Bulles de droite).
