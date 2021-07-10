@@ -48,7 +48,8 @@ Il y a 3 types de participations recensées pour l'utilisateur connecté:
 ![participation-tdb](/assets/img/participation-tdb.PNG)
 
 En cliquant sur **Voir les détails**, l'utilisateur peut retrouver l'ensemble des discussions qu'il a menées, et des commentaires qu'il a envoyés depuis qu'il utilise la plateforme.  
-![details-participation](/assets/img/details-participation.PNG)
+![details-participation](/assets/img/details-participation.PNG)  
+L’oeil à côté de chaque élément permet de consulter la discussion ou le commentaire envoyé. 
 
 ## Fichiers en ligne
 Ce graphique permet de montrer la part des catégories de fichiers que:
@@ -59,3 +60,5 @@ Ce graphique permet de montrer la part des catégories de fichiers que:
 
 
 En cliquant sur **Voir les détails**, l'utilisateur peut retrouver l'ensemble des fichiers concernés par le graphique.  
+![details-fichiers](/assets/img/details-fichiers.PNG)  
+L’oeil à côté de chaque nom de fichier permet de consulter le-dit fichier directement. 
