@@ -12,10 +12,10 @@ Cliquez simplement sur le bouton ![bouton-notifs](/assets/img/bouton-notifs.PNG)
 
 ## Les types de notifications
 Il y a 4 types de notifications: ![4-types-notifications](/assets/img/4-types-notifications.PNG)
-- les discussions et commentaires
-- les sessions de visioconférence
-- les devoirs/examens/quiz rendus ou corrigés
-- les mises en ligne de fichiers
+- les [discussions et commentaires](/discussions)
+- les sessions de [visioconférence](/visioconference)
+- les [devoirs/examens/quiz rendus ou corrigés](/rendus-de-devoirs)
+- les [mises en ligne de fichiers](/mettre-en-ligne-un-fichier)
 
 Lorsque vous cliquerez sur une notification, vous serez directement redirigé à l'activité concernée.  
 
@@ -26,7 +26,7 @@ Vous recevrez toutes les notifications concernant votre classe.
 Vous recevrez toutes les notifications concernant les matières que vous enseignez.
 
 ### Pour les administrateurs
-Vous recevrez toutes les notifications concernant le cycle auquel vous êtes rattaché: vous serez sûrement très sollicité par énormément de notifications. Vous pouvez faire la part des choses en [triant les notifications](#trier-les-notifications), ou tout simplement en utilisant d'autres fonctionnalités comme [Ma journée](/ma-journee), [Tableau de bord](/tableau-de-bord), ou [Analyses](/Analyses).
+Vous recevrez toutes les notifications concernant le cycle auquel vous êtes rattaché: vous serez sûrement très sollicité par énormément de notifications. Vous pouvez faire la part des choses en [filtrant les notifications](#filtrer-les-notifications), ou tout simplement en utilisant d'autres fonctionnalités comme [Ma journée](/ma-journee), [Tableau de bord](/tableau-de-bord), ou [Analyses](/Analyses).
 
 ## Filtrer les notifications
 Par défaut, **"Tous"** est le fitre qui est appliqué. Pour mieux visualiser vos notifications, vous pouvez choisir quel [type de notification](#les-types-de-notifications) vous souhaitez afficher.
