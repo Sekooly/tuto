@@ -40,7 +40,22 @@ Les utilisateurs ont la possibilité de consulter les détails:
 
 
 ## Participations
-> En cours de rédaction
+Il y a 3 types de participations recensées pour l'utilisateur connecté:
+- les **[discussions créées](#en-cours)**
+- les **[commentaires envoyés](#en-cours)**
+- les **[sessions de visioconférences rejointes](#en-cours)**
+
+![participation-tdb](/assets/img/participation-tdb.PNG)
+
+En cliquant sur **Voir les détails**, l'utilisateur peut retrouver l'ensemble des discussions qu'il a menées, et des commentaires qu'il a envoyés depuis qu'il utilise la plateforme.  
+![details-participation](/assets/img/details-participation.PNG)
 
 ## Fichiers en ligne
-> En cours de rédaction
+Ce graphique permet de montrer la part des catégories de fichiers que:
+- l'enseignant connecté a publié
+- l'apprenant connecté doit consulter  au cours de sa formation
+- l'administrateur connecté peut contrôler dans son cycle
+![fichiers](/assets/img/fichiers-tdb.PNG)
+
+
+En cliquant sur **Voir les détails**, l'utilisateur peut retrouver l'ensemble des fichiers concernés par le graphique.  
