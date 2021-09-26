@@ -6,7 +6,7 @@ categories: ["Menu déroulant en haut à droite"]
 published: true
 ---
 
-Les 3 listes recensent les utilisateurs avec qui celui connecté peut intéragir, notamment dans les [fils de discussions](#en-cours), les [messages privés]((/messages-prives) et les [visioconférences](#en-cours).
+Les 3 listes recensent les utilisateurs avec qui celui connecté peut intéragir, notamment dans les [fils de discussions](#en-cours), les [messages privés](/messages-prives) et les [visioconférences](#en-cours).
 
 ## Liste des élèves
 Seuls les enseignants et administrateurs peuvent consulter cette liste. Pour les enseignants, cette liste n'est accessible que lorsqu'il [ouvre une matière](/ouvrir-une-matiere).  
