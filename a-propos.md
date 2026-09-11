@@ -2,12 +2,12 @@
 title: Qu'est-ce que Sekooly ? (FAQ)
 permalink: /a-propos/
 layout: page
-excerpt: Sekooly est une plateforme de télé-enseignement hébergée, qui ambitionne de concrétiser et faciliter le télé-enseignement.
+excerpt: Sekooly est un plateforme numérique pour écoles, collèges et lycées pour gérer au même endroit vos cours, emplois du temps, et communications (entre profs, élèves et parents).
 comments: true
 ---
 
 # En une phrase ?
-Sekooly est une plateforme de télé-enseignement hébergée, qui ambitionne de concrétiser et faciliter le télé-enseignement.
+Sekooly est un plateforme numérique pour écoles, collèges et lycées pour gérer au même endroit vos cours, emplois du temps, et communications (entre profs, élèves et parents). 
 
 # Pour qui ?
 Nous nous adressons aux établissements scolaires. Nous pouvons également fournir une solution plus personnalisée pour les établissements de formation.
@@ -19,7 +19,7 @@ Les prix varient entre 0.50 euros à 5 euros par utilisateur. Tout dépend de la
 Vous pouvez choisir Sekooly pour inscrire jusqu'à 1000 utilisateurs pour votre établissement.
 
 # Plus de détails
-Si vous souhaitez plus d'informations, vous pouvez consulter notre blog d'actualités, où nous avons dédié [un article](https://news.sekooly.com/a-propos-de-sekooly/) sur nos activités, notre vision, et nos prochains objectifs.
+Si vous souhaitez plus d'informations, vous pouvez consulter [notre site web principal](https://sekooly.com) sur nos activités, notre vision, et nos prochains objectifs.
 
 **Prenons contact:** [{{ site.author.email }}](mailto:{{ site.author.email }})
 
