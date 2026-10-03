@@ -5,7 +5,7 @@ date:   2026-10-01 14:36:10
 categories: ["Paramètres"]
 published: true
 ---
-A partir de la liste de vos utilisateurs, vous pouvez désactiver un compte sans pour autant le supprimer :
+A partir d'une des [listes de vos utilisateurs](/listes-des-utilisateurs), vous pouvez désactiver un compte sans pour autant le supprimer :
 ![Bouton pour désactiver l'utilisateur](/assets/img/action-desactiver-user.PNG)
 
 Ainsi, lorsque l'utilisateur tente de se connecter, une alerte s'affiche et il ne peut pas accéder à son compte :   
