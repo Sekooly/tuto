@@ -64,6 +64,7 @@ jekyll_compose:
 number_of_posts: 30
 
 # Build settings
+future: true
 # theme: klise
 sass:
   style: compressed

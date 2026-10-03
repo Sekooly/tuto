@@ -17,9 +17,9 @@ Voici les fichiers importants:
 # Tester en local
 ```
 bundle install
-bundle exec jekyll serve --incremental --trace
+./server.sh
 ```
-Puis aller à l'adresse: **http://127.0.0.1:4000**
+Puis aller à l'adresse: **http://127.0.0.1:7000**
 
 # Credits
 Ce site a été conçu grâce à l'utilisation du template [jekyll-klise](https://github.com/piharpi/jekyll-klise) et des modifications apportées par [data-addict.com](https://github.com/data-addict-com/website).
