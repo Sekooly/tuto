@@ -58,6 +58,16 @@ $on-widescreen: 1152px;
   font-size: $base-font-size * $ratio;
 }
 
+img {
+	max-height: 350px;
+}
+
+iframe {
+	max-height: 70vh;
+	max-width: 1080px;
+	margin: auto;
+}
+
 // Import sass files
 @import "sekooly/fonts", "sekooly/base", "sekooly/layout", "sekooly/post",
   "sekooly/miscellaneous", "sekooly/syntax", "sekooly/dark";

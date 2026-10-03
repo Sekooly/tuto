@@ -31,11 +31,9 @@ layout: compress
   {% include navbar.html %}
   <div class="iframe-wrapper">
     <header class="header-video">
-      <h1 class="header-title center" itemprop="headline">{{ page.title | escape }}.</h1>
-      <strong class="header-title center" itemprop="headline" title="Dans la vidéo ci-dessous, retrouvez l'icône de liste des vidéos directement.">
-        Cliquez sur <svg style="background: black;border-radius: 10px;" version="1.1" viewBox="0 0 36 36" height="36px" width="36px"><use class="ytp-svg-shadow" xlink:href="#ytp-id-4"></use><path d="m 22.53,21.42 0,6.85 5.66,-3.42 -5.66,-3.42 0,0 z m -11.33,0 9.06,0 0,2.28 -9.06,0 0,-2.28 0,0 z m 0,-9.14 13.6,0 0,2.28 -13.6,0 0,-2.28 0,0 z m 0,4.57 13.6,0 0,2.28 -13.6,0 0,-2.28 0,0 z" fill="#fff" id="ytp-id-4"></path></svg> pour retrouver toute la liste de vidéos.</strong>
+      <h1 class="header-title center" itemprop="headline">{{ page.title | escape }}.</h1>      
     </header>
-    <main class="page-content" aria-label="Content">
+    <main class="page-content" aria-label="Content" style="text-align: center;">
       
       <iframe src="https://www.youtube-nocookie.com/embed/videoseries?listType=playlist&list={{page.playlistID}}&fs=1&loop=1&rel=0&showinfo=0&modestbranding=1" allowfullscreen frameborder="0"></iframe>
 
